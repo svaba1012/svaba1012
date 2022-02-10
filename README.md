@@ -2,7 +2,7 @@
 - 👀 I’m interested in low level programming.
 - 🌱 I’m currently learning operating system functionality.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: e-mail stefanivanovic1012@gamil.com
+- 📫 How to reach me: e-mail stefanivanovic1012@gmail.com
 
 <!---
 svaba1012/svaba1012 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
