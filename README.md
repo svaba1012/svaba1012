@@ -4,7 +4,6 @@
 - I am familiar with Python, C++, C#, MatLab and embedded systems developing.
 - I have experience with real-time VoIP apps using RTP, ZRTP and SIP.
 - Currently I am learning Kubernetes, DevOps and Microservices.
-- In future I would like to learn something more about AI, DevOps, Cloud and improve existing knowledge. 
 - How to reach me: 
   - **e-mail** stefanivanovic1012@gmail.com
   - **stackoverflow** [svaba1012](https://stackoverflow.com/users/21027383/svaba1012)
