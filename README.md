@@ -1,9 +1,10 @@
 - Hi, I’m @svaba1012, software engineer at Serbian Armed Forces.
-- I have knowledge of operating systems, web developing(MERN stack), databases(SQL Server, MongoDB) and android app development.
-- I built advanced projects using C, JavaScript, TypeScript, Java languages.
-- I am familiar with Python, C++, C#, MatLab and embedded systems developing.
-- I have experience with real-time VoIP apps using RTP, ZRTP and SIP.
-- Currently I am learning Kubernetes, DevOps and Microservices.
+- Technologies I know:
+   - **Low level programming** (C, nasm, inner workings of computer and operating systems, Linux)
+   - **Frontend** (React, TypeScript)
+   - **Backend** (Node, NestJs, Express, MongoDB, MySql, PostgreSQL)
+   - **DevOps** (Docker, Kubernetes, Terraform, Bash)
+   - **Mobile** (Java, Flutter, JNI)
 - How to reach me: 
   - **e-mail** stefanivanovic1012@gmail.com
   - **stackoverflow** [svaba1012](https://stackoverflow.com/users/21027383/svaba1012)
